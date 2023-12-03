@@ -112,8 +112,7 @@ const MasterFooter = ({
                       <LogoImage logo={logoName} />
                     </div>
                     <p className="text-black">
-                      Looking for a high quality? No one can beat Tera Karachi
-                      Shop in that.
+                    We Help You To Grow Your Business To Something Bigger And Better That It Was Before.
                     </p>
                     <div className="footer-social">
                       <ul>
@@ -255,11 +254,7 @@ const MasterFooter = ({
                             privacy and cookie policy
                           </a>
                         </li>
-                        <li>
-                          <a className="text-black" href="#">
-                            Our Story
-                          </a>
-                        </li>
+                    
                         <li>
                           <a className="text-black" href="#">
                             contact us

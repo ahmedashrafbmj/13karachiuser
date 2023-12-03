@@ -20,7 +20,7 @@ const TopBarDark = ({ topClass, fluid }) => {
                   className="topbartext text-dark"
                   style={{ fontWeight: "bold" }}
                 >
-                  Welcome to Our store Tera Karachi
+                  Welcome To Our Market Place 13Karachi
                 </li>
                 <li className="topbartext text-dark">
                   <i
