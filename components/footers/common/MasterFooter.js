@@ -118,7 +118,7 @@ const MasterFooter = ({
                       <ul>
                         <li>
                           <a
-                            href="https://www.facebook.com/profile.php?id=100094766745978"
+                            href="https://m.facebook.com/profile.php?id=100082254692576&locale2=hi_IN&_rdr"
                             target="_blank"
                           >
                             <i
@@ -256,7 +256,7 @@ const MasterFooter = ({
                         </li>
                     
                         <li>
-                          <a className="text-black" href="#">
+                          <a className="text-black" href="https://api.whatsapp.com/send/?phone=+92%20(347)3709786&text=hy" target="_blank">
                             contact us
                           </a>
                         </li>
@@ -294,13 +294,13 @@ const MasterFooter = ({
                           Chundrigarh Road, Karachi.
                         </li>
                         <li className="text-black">
-                          <i className="fa fa-phone"></i>Call Us: +92 (320)
-                          9248578
+                          <i className="fa fa-phone"></i>Call Us: +92 (347)
+                          3709786
                         </li>
                         <li className="text-black">
                           <i className="fa fa-envelope-o"></i>Email Us:{" "}
                           <a className="text-black" href="#">
-                            info@terakarachi.com
+                            terakarachi@gmail.com
                           </a>
                         </li>
                         <li className="text-black">

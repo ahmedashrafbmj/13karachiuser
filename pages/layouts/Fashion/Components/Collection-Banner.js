@@ -16,6 +16,7 @@ import Animate from "../../animation/animation";
 import { Fade } from "react-reveal";
 import { Get } from "../../../../helpers/baseurl/apibasemethod";
 import baseurl from "../../../../helpers/baseurl/baseurl";
+import Area from "../../../../public/assets/images/area.jpeg"
 
 const DataWatches = [
   {
@@ -212,7 +213,7 @@ const CollectionBanner = () => {
                   return (
                     <MasterCollectionBanner
                       key={i}
-                      img={baseurl.image + data?.images[0]}
+                      img={"/assets/images/area.jpeg"}
                       about={data?.about}
                       link={data?.link}
                       offer={data?.offer}

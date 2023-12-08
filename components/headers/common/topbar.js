@@ -2,16 +2,17 @@ import React from 'react';
 import { Container, Row, Col } from 'reactstrap';
 import Link from 'next/link';
 
-const TopBar = ({topClass}) => {
+const TopBar = ({ topClass }) => {
     return (
-        <div  id="topHeader" className={`top-header ${topClass? topClass: ''}`}>
+        <div id="topHeader" className={`top-header ${topClass ? topClass : ''}`}>
             <Container>
                 <Row>
                     <Col lg="6">
                         <div className="header-contact">
                             <ul>
                                 {/* <li>Welcome to Our store Multikart</li> */}
-                                <li><i className="fa fa-phone text-white" aria-hidden="true"></i>{('Call Us')}:  +92 (320) 9248578</li>
+                                <li><i className="fa fa-phone text-white" aria-hidden="true"></i>{('Call Us')}:  +92 (347)
+                                    3709786</li>
                             </ul>
                         </div>
                     </Col>

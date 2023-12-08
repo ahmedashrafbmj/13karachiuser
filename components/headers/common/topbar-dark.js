@@ -28,7 +28,8 @@ const TopBarDark = ({ topClass, fluid }) => {
                     style={{ fontWeight: "bold" }}
                     aria-hidden="true"
                   ></i>
-                  Call Us: +92 (320) 9248578
+                  Call Us: +92 (347)
+                        3709786
                 </li>
               </ul>
             </div>
