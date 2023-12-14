@@ -133,7 +133,7 @@ const MasterCollectionBanner = ({
                   fontFamily: "inherit",
                 }}
               >
-                <b>Timeless beauty on her wrist</b>
+                <b>In the City of Light</b>
               </p>
             </div>
           </div>
@@ -160,7 +160,7 @@ const MasterCollectionBanner = ({
 //             <p style={{ color: "#555555", fontSize: "inherit", fontFamily: "inherit" }}>
 //               <b>
 
-//                 Timeless beauty on her wrist
+//                 In the City of Light
 //               </b>
 //             </p> */}
 //           </div>

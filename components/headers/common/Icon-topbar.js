@@ -43,7 +43,7 @@ const IconTopbar = () => {
                   <li>
                     <i className="fa fa-phone" aria-hidden="true"></i>Call Us:
                    +92 (347)
-                          3709786
+                          2709786
                   </li>
                 </ul>
               </div>

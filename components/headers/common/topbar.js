@@ -12,7 +12,7 @@ const TopBar = ({ topClass }) => {
                             <ul>
                                 {/* <li>Welcome to Our store Multikart</li> */}
                                 <li><i className="fa fa-phone text-white" aria-hidden="true"></i>{('Call Us')}:  +92 (347)
-                                    3709786</li>
+                                    2709786</li>
                             </ul>
                         </div>
                     </Col>

@@ -6,7 +6,7 @@ const Data = [
   {
     img: "fa-phone",
     title: "Contact us",
-    desc1: "+92 (347)3709786",
+    desc1: "+92 (347)2709786",
     desc2: "+86 163 - 451 - 7894",
   },
   {

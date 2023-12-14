@@ -35,7 +35,7 @@ export default function MyApp({ Component, pageProps }) {
     <>
       <FloatingWhatsApp
         style={{ bottom: "15rem !important" }}
-        phoneNumber={"+92 (347)3709786"}
+        phoneNumber={"+92 (347)2709786"}
         accountName={"Tera Karachi"}
       />
 
