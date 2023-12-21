@@ -342,8 +342,8 @@ const HeaderOne = ({
                 <div className="menu-right pull-right">
                   {/*Top Navigation Bar Component*/}
                   <NavBar />
-                  <div style={{
-                    display: 'flex',
+                  <div className="iconProfile" style={{
+                    display: 'none',
                     position: 'relative',
                     placeItems: 'center',
                     placeContent: 'center',
