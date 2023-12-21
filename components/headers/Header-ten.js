@@ -69,10 +69,8 @@ const HeaderTen = ({ logoName, topClass, headerClass }) => {
                   </div>
                   <Col lg="2" xs="4">
                     <div className="menu-right pull-right">
-                      <div>
+                    
                         <div className="icon-nav">
-                          <ul>
-                            <li className="onhover-div mobile-search">
                               <div>
                                 <Media
                                   src={search.src}
@@ -84,12 +82,9 @@ const HeaderTen = ({ logoName, topClass, headerClass }) => {
                                   className="fa fa-search"
                                   onClick={openSearch}
                                 ></i>
-                              </div>
-                            </li>
                             <Currency icon={settings.src} />
                             {/*Header Cart Component */}
                             <CartContainer icon={cart.src} />
-                          </ul>
                         </div>
                       </div>
                     </div>

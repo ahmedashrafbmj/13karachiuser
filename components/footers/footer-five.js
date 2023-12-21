@@ -168,7 +168,7 @@ const FooterFive = ({ layoutClass, logoName }) => {
                             </li>
                             <li>Call Us: 123-456-7898</li>
                             <li>
-                              Email Us: <a href="#">Support@Fiot.com</a>
+                              Email Us: <a href="#">support@fiot.com</a>
                             </li>
                             <li>Fax: 123456</li>
                           </ul>

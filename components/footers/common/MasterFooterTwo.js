@@ -119,7 +119,7 @@ const MasterFooterTwo = ({
                         <li>Multikart Demo Store, Demo store India 345-659</li>
                         <li>Call Us: 123-456-7898</li>
                         <li>
-                          Email Us: <a href={null}>Support@Fiot.com</a>
+                          Email Us: <a href={null}>support@fiot.com</a>
                         </li>
                         <li>Fax: 123456</li>
                       </ul>

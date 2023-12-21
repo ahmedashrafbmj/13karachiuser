@@ -299,7 +299,7 @@ const MasterFooter = ({
                         </li>
                         <li className="">
                           <i className="fa fa-envelope-o"></i>Email Us:{" "}
-                          <a className="text-black" href="#">
+                          <a className="text-black" style={{textTransform:"lowercase"}} href="#">
                             terakarachi@gmail.com
                           </a>
                         </li>
