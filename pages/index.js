@@ -34,7 +34,7 @@ const Fashion = () => {
       <HeaderOne logoName={"logo.png"} topClass="top-header" />
       <Banner />
 
-      <CollectionBanner />
+     
       {/* <Paragraph
       title="title1 section-t-space"
       inner="title-inner1"
@@ -65,6 +65,7 @@ const Fashion = () => {
         noSlider="true"
         cartClass="cart-info cart-wrap"
       />
+       <CollectionBanner />
       <ServiceLayout sectionClass="border-section small-section" />
       {/* <Blog type="fashion" title="title1" inner="title-inner1" /> */}
       <Instagram type="fashion" />
