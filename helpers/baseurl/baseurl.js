@@ -1,5 +1,5 @@
 const baseurl = {
-  url: "https://13karachibackend-production.up.railway.app/",
-  image: "https://13karachibackend-production.up.railway.app/uploads/",
+  url: "https://terakarachi.com/api/",
+  image: "https://terakarachi.com/uploads/",
 };
 export default baseurl;
