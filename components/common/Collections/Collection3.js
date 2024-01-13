@@ -81,6 +81,12 @@ const TopCollection = ({
       setDelayProduct(false);
     }, 1);
   }, [delayProduct]);
+
+  const settings = {
+    infinite: true,
+    autoplay: true,
+    autoplaySpeed: 2000
+  };
   
   return (
     <>
@@ -121,7 +127,7 @@ const TopCollection = ({
                     </div>
                   </div>
                 ) : (
-                  <Slider {...productSlider} className="product-m no-arrow">
+                  <Slider {...settings} {...productSlider} className="product-m no-arrow" >
                     {data &&
                       data.products.items.map((product, i) => (
                         <div key={i}>

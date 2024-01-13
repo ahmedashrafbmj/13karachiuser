@@ -63,6 +63,12 @@ const TopCollection = ({
     },
   });
 
+  const settings = {
+    infinite: true,
+    autoplay: true,
+    autoplaySpeed: 2000
+  };
+
   return (
     <>
       <section className={designClass}>
@@ -130,7 +136,7 @@ const TopCollection = ({
             <Container>
               <Row>
                 <Col>
-                  <Slider {...productSlider} className="product-m no-arrow">
+                  <Slider {...settings} {...productSlider} className="product-m no-arrow">
                     {!data ||
                     !data.products ||
                     !data.products.items ||

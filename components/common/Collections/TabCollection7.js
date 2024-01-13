@@ -55,6 +55,7 @@ const TabContent = ({ data, startIndex, endIndex }) => {
     <Slider
       {...Product4}
       className="product-4 game-product product-m no-arrow slick-initialized slick-slider"
+      
     >
       {data &&
         data.products.items

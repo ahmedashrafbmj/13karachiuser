@@ -69,6 +69,12 @@ const TopCollection = ({
     },
   });
 
+  const settings = {
+    infinite: true,
+    autoplay: true,
+    autoplaySpeed: 2000
+  };
+
   return (
     <>
       <section className={designClass}>
@@ -134,6 +140,7 @@ const TopCollection = ({
                   )
                 ) : (
                   <Slider
+                  {...settings}
                     {...Product4}
                     className="product-4 product-m no-arrow"
                   >

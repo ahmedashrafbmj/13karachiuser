@@ -18,6 +18,11 @@ const Data = [
   },
 ];
 
+const settings = {
+  infinite: true,
+  autoplay: true,
+  autoplaySpeed: 2000
+};
 const Banner = ({ img, offer, title, btn }) => {
   return (
     <div>
@@ -44,7 +49,7 @@ const Banner = ({ img, offer, title, btn }) => {
 const HomeBanner = () => {
   return (
     <section className="p-0">
-      <Slider className="slide-1 home-slider">
+      <Slider className="slide-1 home-slider" {...settings}>
         {Data.map((data, i) => {
           return (
             <Banner
