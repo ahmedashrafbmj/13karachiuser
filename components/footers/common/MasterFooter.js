@@ -190,12 +190,14 @@ const MasterFooter = ({
                     <div className="footer-contant">
                       <ul>
                         <li>
-                          <Link href={`/shop/left_sidebar`}>
+                        <Link href="https://admin.13karachi.com/">
+
                             <a className="text-black">Login</a>
                           </Link>
                         </li>
                         <li>
-                          <Link href={`/shop/left_sidebar`}>
+                        <Link href="https://admin.13karachi.com/">
+
                             <a className="text-black"> Sing Up </a>
                           </Link>
                         </li>
