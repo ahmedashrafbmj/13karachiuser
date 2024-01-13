@@ -130,7 +130,7 @@ const MasterFooter = ({
 
                         <li>
                           <a
-                            href="https://www.youtube.com/channel/UCLbgQTXcX8BSBQGlvDimaaQ"
+                            href="https://youtube.com/@13Karachi?si=Q1lfBb5gEOjBgk2e"
                             target="_blank"
                           >
                             <i className="fa fa-youtube" aria-hidden="true"></i>
@@ -138,7 +138,7 @@ const MasterFooter = ({
                         </li>
                         <li>
                           <a
-                            href="https://www.instagram.com/fashionerapk_/?fbclid=IwAR16c1C2hN9mWzib5n_mSzgWiWr6azJKzhNxdfslMplZdyWJGa614vu-U40"
+                            href="https://www.instagram.com/invites/contact/?i=1ep516xspgjie&utm_content=n505dzt"
                             target="_blank"
                           >
                             <i
@@ -149,7 +149,7 @@ const MasterFooter = ({
                         </li>
                         <li>
                           <a
-                            href="https://www.tiktok.com/@fashionera.23"
+                            href="https://www.tiktok.com/@13karachi?_t=8iQej12M5QN&_r=1"
                             target="_blank"
                           >
                             <img
@@ -196,7 +196,7 @@ const MasterFooter = ({
                         </li>
                         <li>
                           <Link href={`/shop/left_sidebar`}>
-                            <a className="text-black"> Singup </a>
+                            <a className="text-black"> Sing Up </a>
                           </Link>
                         </li>
                         {/* <li>
@@ -290,7 +290,7 @@ const MasterFooter = ({
                     <div className="footer-contant">
                       <ul className="contact-list">
                         <li className="text-black">
-                          <i className="fa fa-map-marker"></i>New Challi, ii
+                          <i className="fa fa-map-marker"></i>New Challi, II
                           Chundrigarh Road, Karachi.
                         </li>
                         <li className="text-black">
@@ -315,10 +315,10 @@ const MasterFooter = ({
           </Container>
         </section>
 
-        <CopyRight
+        {/* <CopyRight
           layout={layoutClass}
           fluid={CopyRightFluid ? CopyRightFluid : ""}
-        />
+        /> */}
       </footer>
     </div>
   );

@@ -55,8 +55,8 @@ const TopBarDark = ({ topClass, fluid }) => {
                 className="onhover-dropdown mobile-account"
                 style={{ fontWeight: "bold" }}
               >
-                <Link href="/page/account/login">
-                  <a className="text-dark">
+                <Link href="https://admin.13karachi.com/">
+                  <a  href="https://admin.13karachi.com/" className="text-dark" target="_blank">
                     <i
                       className="fa fa-user"
                       aria-hidden="true"
@@ -70,9 +70,9 @@ const TopBarDark = ({ topClass, fluid }) => {
                 className="onhover-dropdown mobile-account "
                 style={{ fontWeight: "bold" }}
               >
-                <Link href="/page/account/register">
+                <Link href="https://admin.13karachi.com/">
                   {/* <div className="userr"> */}
-                  <a className="text-dark ">
+                  <a href="https://admin.13karachi.com/" className="text-dark " target="_blank">
                     <i
                       className="fa fa-user  "
                       aria-hidden="true"
